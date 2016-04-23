@@ -1,13 +1,21 @@
 # What you added to Udacitask 2.0
 # -------------------------------------------------------
+
 1. What is the gem of your choice and how did you use it?
+
+
+used the Artii gem to print the titles
 2. Describe the 2 features you added to the project.
   a) Feature 1...
-  b) Feature 2...
-
+ allowed user to update the priority of a todo item
+ b) Feature 2... allowed
+ user to delete multiple items
 # REFLECTIONS
 # -------------------------------------------------------
-1. How long did you spend working on this project?
+
+1. How long did you spend working on this project? About 3 hours
 2. What was the most rewarding challenge you conquered?
-3. What two additional features did you build? Why?
+ I started off the project without checking the helps given in the lesson, yet I was able to figure out a few things on my own, which felt quite good.
+3. What two additional features did you build? Why?I think it is important to have the functionality to delete items and modify the priority
 4. Where do you still have room to grow?
+ Yes, lots of opportunity. We can allow the user to select a list and then decide if he wants to add, remove, alter the items. We can also allow them to make a new list all together.
